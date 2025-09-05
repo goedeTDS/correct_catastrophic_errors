@@ -12,4 +12,4 @@ SciPy
 
 [PyMeso](https://github.com/jordanbrook/PyMeso)
 
-## SINCE THE RELEASE OF THE MORE STRAIGT-FORWARD [Alford et al. 2022](https://github.com/aaddisonalford/processorCorrect), THIS METHODOLOGY HAS BECOME OUTDATED
+## SINCE THE RELEASE OF THE MORE STRAIGT-FORWARD [Alford et al. 2022](https://journals.ametsoc.org/view/journals/atot/42/6/JTECH-D-24-0029.1.xml), THIS METHODOLOGY HAS BECOME OUTDATED
